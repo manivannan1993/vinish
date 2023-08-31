@@ -11,6 +11,6 @@ public class sampleprog {
 
 		}
 		System.out.println(count);
-	}
-
+	
+System.out.println("*");}
 }
